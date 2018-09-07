@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_width">280dp</dimen>
+    <dimen name="loginbottom">60dp</dimen>
+    <dimen name="titletop">38dp</dimen>
+    <dimen name="userlen">290dp</dimen>
+    <dimen name="userwidth">278dp</dimen>
+</resources>
